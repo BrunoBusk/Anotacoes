@@ -1,2 +1,4 @@
 Foi criado o repositório e feito o clone através do Git Bash 
-
+Depois foi criado uma pasta através do mkdir , um arquivo pelo comando echo .
+foi feito o comando git add para adionar os arquivos ao repositório e um commit pois ainda estavam com o status de untracked .
+Após apelidar o link do repositório com o comando git remote add origin <link> executei um git push para adicionar tudo no repositório do GitHub .
